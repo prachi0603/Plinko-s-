@@ -1,4 +1,4 @@
-class Particles {
+class Particle {
     constructor(x, y) {
         var options = {
             restitution: 1,
